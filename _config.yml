@@ -10,7 +10,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
-Hi idk what I'm doing here but just a page to share my theology and have a running project!
+   Hi idk what I'm doing here but just a page to share my theology and have a running project!
 
 
 # Build settings
@@ -33,9 +33,9 @@ plugins:
 #
 # Uncomment the following setting if you wish to disable deprecation warnings
 #   from newer versions of sass converter. Adapt as required.
-# sass:
-#   quiet_deps: true
-#   silence_deprecations: [import]
+sass:
+   quiet_deps: true
+   silence_deprecations: [import]
 
 
 # Minima-specific settings (applicable to Minima v3 and above only)
@@ -52,7 +52,7 @@ minima:
      * solarized-light    Light variant of solarized color scheme.
      * solarized-dark     Dark variant of solarized color scheme.
      * solarized          Adaptive skin for solarized color scheme skins.
-   skin: auto
+   skin: classic
 #
 #   Specific pages for site navigation.
 #     If you wish to link only specific pages in the site-navigation, use this
@@ -62,7 +62,7 @@ minima:
 #     - about.md
 #
 #   Set to `true` to show excerpts on the homepage.
-#   show_excerpts: false
+show_excerpts: false
 #
 #   Minima date format.
 #     The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
