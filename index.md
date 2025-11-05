@@ -1,6 +1,5 @@
-Hi Sigmas!
+#Hi I'm Jacob a 3rd year software engineering student
 
-## My Posts!
+##This page aims to share a bit about me and what I'm working on right now!
 
-My goal is to share Jesus with everyone I know, I want to know Him and be known by Him. "All the nations you have made shall come and worship before you, O Lord, and shall glorify your name." Psalm 86:9.
 
